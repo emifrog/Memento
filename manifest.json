@@ -1,0 +1,18 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "sp-memento.netlify",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "sp-memento.netlify",
+  "start_url": "/",
+  "theme_color": "#4e8ef7",
+  "icons": [
+    {
+      "src": "imgs/500x500.png",
+      "type": "image/png",
+      "sizes": "500x500"
+    }
+  ]
+}
